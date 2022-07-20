@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Udemy.App.Dtos/1.0.0": {
+        "dependencies": {
+          "Udemy.App.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Udemy.App.Dtos.dll": {}
+        }
+      },
+      "Udemy.App.Entities/1.0.0": {
+        "runtime": {
+          "Udemy.App.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Udemy.App.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Udemy.App.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

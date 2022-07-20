@@ -1,0 +1,12 @@
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\bin\Debug\net5.0\Udemy.App.Common.deps.json
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\bin\Debug\net5.0\Udemy.App.Common.dll
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\bin\Debug\net5.0\Udemy.App.Common.pdb
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\obj\Debug\net5.0\Udemy.App.Common.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\obj\Debug\net5.0\Udemy.App.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\obj\Debug\net5.0\Udemy.App.Common.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\obj\Debug\net5.0\Udemy.App.Common.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\obj\Debug\net5.0\Udemy.App.Common.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\obj\Debug\net5.0\Udemy.App.Common.dll
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\obj\Debug\net5.0\refint\Udemy.App.Common.dll
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\obj\Debug\net5.0\Udemy.App.Common.pdb
+C:\Users\Hp\source\repos\Udemy.App\Udemy.App.Common\obj\Debug\net5.0\ref\Udemy.App.Common.dll
