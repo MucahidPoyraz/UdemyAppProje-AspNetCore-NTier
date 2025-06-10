@@ -1,29 +1,40 @@
-UdemyAppProje-AspNetCore-NTier
-Education Platform with Layered (NTier) Architecture – Udemy Clone
+# UdemyAppProje-AspNetCore-NTier
 
-This project is a comprehensive education platform built using ASP.NET Core with a layered (NTier) architecture. It enables users to browse courses, filter by categories, and manage educational content dynamically, showcasing a scalable and maintainable backend structure.
+## Education Platform with Layered (NTier) Architecture – Udemy Clone
 
-🔧 Technologies and Frameworks
-Backend: ASP.NET Core 5.0, C#
+This project is an education platform application developed using ASP.NET Core with a layered (NTier) architecture. It allows users to browse courses, filter by categories, and manage content dynamically, providing a scalable and maintainable backend solution.
 
-Database: MS SQL Server
+---
 
-Architecture: NTier (Layered Architecture)
+## 🔧 Technologies and Frameworks
 
-Design Patterns: Generic Repository, Unit of Work, Dependency Injection
+- **Backend:** ASP.NET Core 5.0, C#  
+- **Database:** MS SQL Server  
+- **Architecture:** NTier (Layered Architecture)  
+- **Design Patterns:** Generic Repository, Unit of Work, Dependency Injection  
+- **Supporting Libraries:** AutoMapper, FluentValidation  
+- **Authentication:** Cookie Authentication  
 
-Supporting Libraries: AutoMapper, FluentValidation
+---
 
-Authentication: Cookie Authentication
+## 🚀 Key Features
 
-🚀 Key Features
-Full management of courses and categories
+- Course and category management  
+- Modular, testable, and scalable layered architecture  
+- Clean code principles applied throughout the project  
+- Validation and error handling implemented at the API layer  
 
-Modular, testable, and scalable layered architecture
+---
 
-Clean code principles applied throughout development
+## 🎯 Purpose and Goals
 
-Validation and error handling implemented at the API layer
+This project demonstrates how to build complex, real-world applications in a modular and professional way using modern backend architectural patterns. It serves as a strong reference for software developers aiming to create scalable and maintainable applications with ASP.NET Core.
 
-🎯 Purpose and Goal
-This project aims to demonstrate how to develop complex real-world applications in a modular, clean, and professional manner using modern backend architectural patterns. It serves as a solid example for developers looking to build scalable and maintainable enterprise-level applications.
+---
+
+## 📂 Project Structure
+
+- **API Layer:** Handles HTTP requests, validation, and responses  
+- **Business Logic Layer:** Contains core application logic  
+- **Data Access Layer:** Manages database interactions using Entity Framework Core  
+- **Common:** Shared utilities, DTOs, and mappings
