@@ -1,10 +1,10 @@
-🎓 UdemyAppProje-AspNetCore-NTier
-📁 Education Platform with Layered Architecture (NTier Architecture Udemy Clone)
+UdemyAppProje-AspNetCore-NTier
+Education Platform with Layered (NTier) Architecture – Udemy Clone
 
-This project is an education platform application developed using ASP.NET Core, built with a layered (NTier) architecture. It allows users to browse courses, filter by categories, and manage content dynamically.
+This project is a comprehensive education platform built using ASP.NET Core with a layered (NTier) architecture. It enables users to browse courses, filter by categories, and manage educational content dynamically, showcasing a scalable and maintainable backend structure.
 
-🔧 Technologies and Structures Used:
-Backend: ASP.NET Core 5.0, C#, Entity Framework Core
+🔧 Technologies and Frameworks
+Backend: ASP.NET Core 5.0, C#
 
 Database: MS SQL Server
 
@@ -16,14 +16,14 @@ Supporting Libraries: AutoMapper, FluentValidation
 
 Authentication: Cookie Authentication
 
-🚀 Key Features:
-Course and category management
+🚀 Key Features
+Full management of courses and categories
 
-Sustainable, testable, and scalable architecture with layered design
+Modular, testable, and scalable layered architecture
 
-Development following clean code principles
+Clean code principles applied throughout development
 
 Validation and error handling implemented at the API layer
 
-🎯 Purpose and Goal:
-This project is designed to demonstrate how complex real-world scenarios can be developed in a modular and professional way. It serves as a strong backend architecture example for software developers.
+🎯 Purpose and Goal
+This project aims to demonstrate how to develop complex real-world applications in a modular, clean, and professional manner using modern backend architectural patterns. It serves as a solid example for developers looking to build scalable and maintainable enterprise-level applications.
