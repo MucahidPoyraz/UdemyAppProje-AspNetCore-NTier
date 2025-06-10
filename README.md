@@ -21,8 +21,7 @@ This project is an education platform application developed using ASP.NET Core w
 
 - Course and category management  
 - Modular, testable, and scalable layered architecture  
-- Clean code principles applied throughout the project  
-- Validation and error handling implemented at the API layer  
+- Clean code principles applied throughout the project
 
 ---
 
@@ -30,11 +29,4 @@ This project is an education platform application developed using ASP.NET Core w
 
 This project demonstrates how to build complex, real-world applications in a modular and professional way using modern backend architectural patterns. It serves as a strong reference for software developers aiming to create scalable and maintainable applications with ASP.NET Core.
 
----
 
-## 📂 Project Structure
-
-- **API Layer:** Handles HTTP requests, validation, and responses  
-- **Business Logic Layer:** Contains core application logic  
-- **Data Access Layer:** Manages database interactions using Entity Framework Core  
-- **Common:** Shared utilities, DTOs, and mappings
